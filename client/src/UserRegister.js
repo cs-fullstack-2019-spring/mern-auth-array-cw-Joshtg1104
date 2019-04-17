@@ -12,7 +12,7 @@ class UserRegister extends Component {
 
     submitNewUserForm=(e)=>{
       e.preventDefault();
-      fetch('/users/', {
+      fetch('/users/newuser', {
           method: 'POST',
           headers:{
               "Accept": "application/json",
