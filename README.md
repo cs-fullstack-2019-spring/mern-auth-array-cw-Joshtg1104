@@ -9,3 +9,5 @@ Create the following pages:
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+<hr>
+0.5 points. Submitting all forms results in an error. Not sure add user or sign in works.
